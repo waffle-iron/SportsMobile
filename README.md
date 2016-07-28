@@ -1,3 +1,3 @@
-# Olimpiadas Rio
+# SportsMobile
 
-Controle de desenvolvimento do aplicativo.
+Controle de desenvolvimento dos aplicativos.
